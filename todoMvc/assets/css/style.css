@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+
+
+body{
+    background: rgb(242,242,242);
+    background: radial-gradient(circle, rgba(242,242,242,1) 67%, rgba(213,213,213,1) 84%, rgba(136,136,136,1) 100%);
+}
+
+.divLogo{
+    text-align: center;
+}
+
+.logo{
+    width : 400px;
+    height : 400px;
+}
+
+.divBtnCreate{
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-family: 'Square Peg', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+.aBtn{
+    text-decoration: none;
+    color: white;
+}
+
+.para{
+    font-family: 'Square Peg', cursive;
+    font-size: 40px;
+    font-weight : normal;
+}
+
+.btnClass{
+    margin-top: 15px;
+}
